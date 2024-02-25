@@ -48,8 +48,8 @@ The development of this project lasts only a couple of weeks, but so far the fol
 </p>
 
 Project documentation:
-* [Concept/GDD];(https://www.notion.so/514dbd8cd4af4972b6144375065fb704?v=d616bad99e354628a81dbc25c38a2734&pvs=4)
-* [Management].(https://www.notion.so/8b5aecca354747c999865df8b884a0d5?v=5a8fd0a09a264be1a1f1267bda79c724&pvs=4)
+* [Concept/GDD](https://www.notion.so/514dbd8cd4af4972b6144375065fb704?v=d616bad99e354628a81dbc25c38a2734&pvs=4);
+* [Management](https://www.notion.so/8b5aecca354747c999865df8b884a0d5?v=5a8fd0a09a264be1a1f1267bda79c724&pvs=4);
 
 >This documentation is private with access to project development participants. These links are currently blocked, do not try to follow them!
 
