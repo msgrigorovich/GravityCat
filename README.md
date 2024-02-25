@@ -12,7 +12,7 @@ The prototype of this project was a satisfied old game - GravityGuy. Game genre 
 * Platformer;
 * Side-runner;
 
-> Projuct title is GravtityCat
+> Projuct title is GravityCat
 
 This is a story about a cat in Japan setting who is trying to escape from... not yet thought of (_but have ideas_).
 
