@@ -44,7 +44,7 @@ The development of this project lasts only a couple of weeks, but so far the fol
 <img width="375" height="230" src="https://github.com/msgrigorovich/GravityCat/blob/master/README_PICTURES/feature_parallax.gif?raw=true">
 
 <p align = "center">
-<i>test visual while drawing the main network</i>
+<i>test visual while drawing the main setting</i>
 </p>
 
 Project documentation:
