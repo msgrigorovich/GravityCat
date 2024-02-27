@@ -36,12 +36,39 @@ public class PlayerController : MonoBehaviour
             {
                 Physics.gravity = new Vector3(0, 100f, 0);
                 gravity = true;
+                State = States.AnimationUngravity; // переход стэйта аниматора при прыжке
             }
             else if (Input.GetMouseButtonDown(0) & gravity == true)
             {
                 Physics.gravity = new Vector3(0, -100f, 0);
                 gravity = false;
+                State = States.DefaultAnimation; // возврат дефолтного стэйта аниматора при обратном приземлении
             }
         }
     }
+
+    // создаем поле аниматора
+    private Animator anim;
+
+    // получаем ссылку на компонент аниматора
+    private void Awake ()
+    {
+        anim = GetComponent<Animator>();
+    }
+
+    // поле для получения и установки стэйта из аниматора
+    private States State
+    {
+        get {return (States)anim.GetInteger("State");}
+        set {anim.SetInteger("State", (int)value);}
+    }
+
+}
+
+// создем константы состояний для аниматора
+// обязательно в том порядке, в котором они создавались в аниматоре
+public enum States
+{
+    DefaultAnimation,
+    AnimationUngravity
 }
