@@ -16,9 +16,13 @@ public class Menu : MonoBehaviour
             {
                 Resume();
             }
-            else
+            else if(GameMenu)
             {
                 Pause();
+            }
+            else
+            {
+                Restart();
             }
         }
     }
@@ -41,6 +45,13 @@ public class Menu : MonoBehaviour
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("Menu");
+    }
+
+    public void Restart()
+    {
+        MenuDialog.SetActive(false);
+        Time.timeScale = 1f;
+        SceneManager.LoadScene("main");
     }
 
 }
