@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BarButton_0: 6040687461957159727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

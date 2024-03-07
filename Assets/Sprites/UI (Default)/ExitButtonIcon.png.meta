@@ -180,7 +180,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ExitButtonIcon_0: 5643326604392335370
+      ExitButtonIcon_1: 6257366892836078120
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

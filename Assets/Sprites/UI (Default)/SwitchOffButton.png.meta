@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SwitchOffButton_0: 7551352776411697411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
