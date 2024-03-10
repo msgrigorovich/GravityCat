@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4b2c6b211e2244946ad6bc6632b71d87
+guid: eea2144ee7a56475e8a3fe390a00bc66
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7510012056669390998
-    second: BananaCatRight_0
+      213: 2856063822061640655
+    second: DefaultDialog_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BananaCatRight_0
+      name: DefaultDialog_0
       rect:
         serializedVersion: 2
-        x: 147
-        y: 26
-        width: 242
-        height: 490
+        x: 0
+        y: 0
+        width: 968
+        height: 718
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6980ea00d2ce83860800000000000000
-      internalID: 7510012056669390998
+      spriteID: fcb14d10ae6c2a720800000000000000
+      internalID: 2856063822061640655
       vertices: []
       indices: 
       edges: []
@@ -157,7 +157,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BananaCatRight_0: 7510012056669390998
+      DefaultDialog_0: 2856063822061640655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

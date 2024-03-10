@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e9a634fae5e3d4ca6abf4bf5642ff453
+guid: 92c6b88936bcf4b219d21cea16c9e651
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1375403975228981432
-    second: BananCatDefault_0
+      213: 1869184884244585915
+    second: ExitButtonCircle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BananCatDefault_0
+      name: ExitButtonCircle_0
       rect:
         serializedVersion: 2
-        x: 149
-        y: 22
-        width: 247
-        height: 497
+        x: 0
+        y: 0
+        width: 256
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b00f26d0aa661310800000000000000
-      internalID: 1375403975228981432
+      spriteID: bbd9de4bfbda0f910800000000000000
+      internalID: 1869184884244585915
       vertices: []
       indices: 
       edges: []
@@ -157,7 +157,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BananCatDefault_0: 1375403975228981432
+      ExitButtonCircle_0: 1869184884244585915
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

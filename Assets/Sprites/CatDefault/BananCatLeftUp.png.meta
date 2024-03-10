@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 78f698241ace54b8f9dfdea700f612d7
+guid: e363cae73c5f741f49a28a9f341453c0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1290364315927792599
-    second: BananCatRightUp_0
+      213: 8830745461517644737
+    second: LeftButton_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BananCatRightUp_0
+      name: LeftButton_0
       rect:
         serializedVersion: 2
-        x: 150
-        y: 19
-        width: 255
-        height: 504
+        x: 0
+        y: 0
+        width: 129
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7db47b9328b48e110800000000000000
-      internalID: 1290364315927792599
+      spriteID: 1c3f6afb53c1d8a70800000000000000
+      internalID: 8830745461517644737
       vertices: []
       indices: 
       edges: []
@@ -157,7 +157,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BananCatRightUp_0: 1290364315927792599
+      LeftButton_0: 8830745461517644737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
