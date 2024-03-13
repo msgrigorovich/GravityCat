@@ -1,0 +1,25 @@
+Key,English,German,Russian,French,Spanish,Italian,Japanese,Korean,Chinese
+ui.story.button,Story,Geschichte,Сюжет,Story,Historia,Histoire,ストーリー,스토리,故事
+ui.singleplayer.button,Single-player,Einzelspieler,Одиночная игра,Joueur unique,Un jugador,Giocatore singolo,シングルプレイ,싱글플레이어,单人游戏
+ui.multiplayer.button,Multi-player,Multispieler,Мультиплеер,Multi-joueurs,Multijugador,Multigiocatore,マルチプレーヤー,멀티플레이어,多人游戏
+ui.settings.button,Settings,Einstellungen,Настройки,Paramètres,Ajustes,Impostazioni,設定,설정,设置
+ui.shop.button,Shop,Shop,Магазин,Boutique,Tienda,Negozio,ショップ,쇼핑,商店
+ui.skins.button,Skins,Häute,Скины,Peaux,Pieles,Pelli,スキンズ,스킨,皮肤
+ui.soon.title,Soon ...,Bald ...,Скоро ...,Bientôt ...,Pronto...,Presto...,もうすぐだ,곧 ...,不久 ...
+ui.soon.desc,Currently under development,Derzeit in Entwicklung,В настоящее время находится в разработке,En cours de développement,Actualmente en desarrollo,Attualmente in fase di sviluppo,現在開発中,현재 개발 중,目前正在开发中
+ui.soon.exit.button,Thanks!,Danke!,Спасибо!,Merci de votre attention !,Gracias.,Grazie!,ありがとう！,고마워요!,谢谢！
+ui.general.button,General,Allgemein,Общие сведения,Général,General,Generale,一般,일반,概况
+ui.language.button,Language,Sprache,Язык,Langue,Lengua,Lingua,言語,언어,语言
+ui.statistics.button,Statistics,Statistik,Статистика,Statistiques,Estadística,Statistica,統計,통계,统计学
+ui.credits.button,Credits,Credits,Кредиты,Crédits,Créditos,Crediti,単位,크레딧,学分
+ui.repeattutorial.button,Repeat tutorial,Wiederholung des Tutorials,Повторить туториал,Répéter le tutorat,Repetir tutoría,Ripetizione del tutorial,チュートリアルを繰り返す,반복 튜토리얼,重复教程
+ui.sound.title,Sound,Ton,Звук,Son,Sonido,Suono,サウンド,사운드,声音
+ui.music.title,Music,Musik,Музыка,Musique,Música,Musica,音楽,음악,音乐
+ui.haptic.title,Haptic,Haptisch,Вибрация,Haptique,Háptica,Aptico,ハプティック,햅틱,触觉
+ui.pausepositionleft.button,Left,Links,Слева,Gauche,Izquierda,A sinistra,左,왼쪽,左
+ui.pausepositionright.button,Right,Rechts,Справа,A droite,Derecha,A destra,右,오른쪽,右
+ui.continue.button,Continue,Weiter,Продолжить,Continuer,Continuar,Continuare,続き,계속하기,继续
+ui.restart.button,Restart,Neustart,Перезапустить,Redémarrage,Reinicie,Riavvio,リスタート,다시 시작,重新启动
+ui.exit.button,Exit,Beenden,Выход,Sortir,Salir de,Uscire,終了,종료,退出
+ui.menu.title,Menu,Menü,Меню,Menu,Menú,Menu,メニュー,메뉴,菜单
+ui.pauseposition.title,Pause position,Pausenstellung,Позиция паузы,Position de pause,Posición de pausa,Posizione di pausa,ポーズポジション,일시 정지 위치,暂停位置

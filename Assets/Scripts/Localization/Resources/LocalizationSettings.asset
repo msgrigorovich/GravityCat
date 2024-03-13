@@ -14,7 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TableId: 1i-9CAk1C6cT4gfFo5ZXp_W0oYT7Onj6aDKWdWrhjOPc
   Sheets:
-  - Name: Menu
+  - Name: UI
     Id: 331980525
-    TextAsset: {fileID: 4900000, guid: cf55c05861a4d264a855e6349bef560e, type: 3}
+    TextAsset: {fileID: 4900000, guid: a8965cec7a2d747f9bef77407269bf10, type: 3}
+  - Name: Language
+    Id: 937701572
+    TextAsset: {fileID: 4900000, guid: 48884b5a5c37641fca378ad8fed5e856, type: 3}
+  - Name: Statistics
+    Id: 786781396
+    TextAsset: {fileID: 4900000, guid: 1fb843b4d08374b0ab589f98cac8e6c3, type: 3}
+  - Name: Credits
+    Id: 237474334
+    TextAsset: {fileID: 4900000, guid: f201fee53fe38413fb96b51b76a98bed, type: 3}
   SaveFolder: {fileID: 102900000, guid: c392831e85f928548b8494fefd912562, type: 3}

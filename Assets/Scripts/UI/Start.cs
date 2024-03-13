@@ -10,7 +10,7 @@ public class Start : MonoBehaviour
 
     public GameObject MainMenuDialog;
     
-    public void StartGamae()
+    public void StartGame()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("main");

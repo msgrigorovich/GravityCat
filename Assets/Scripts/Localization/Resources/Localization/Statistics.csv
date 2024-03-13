@@ -1,0 +1,9 @@
+Key,English,German,Russian,French,Spanish,Italian,Japanese,Korean,Chinese
+ui.stat1.desc,Best score,Bestes Ergebnis,Лучший результат,Meilleur score,Mejor puntuación,Miglior punteggio,ベストスコア,최고 점수,最佳成绩
+ui.stat2.desc,Attempts,Versuche,Попыток,Tentatives,Intentos,Tentativi,試み,시도,尝试
+ui.stat3.desc,Deaths,Todesfälle,Смертей,Décès,Fallecimientos,Decessi,死亡者数,사망자,死亡人数
+ui.stat4.desc,Bonuses,Boni,Бонусов,Bonus,Bonificaciones,Bonus,ボーナス,보너스,奖励
+ui.stat5.desc,Total time (min),Gesamtzeit (min),Общее время (мин),Temps total (min),Tiempo total (min),Tempo totale (min),合計時間（分）,총 시간(분),总时间（分钟）
+ui.stat6.desc,Total coins collected,Gesammelte Münzen,Собрано монет,Total des pièces collectées,Monedas totales recogidas,Monete totali raccolte,集めたコインの合計,수집한 총 코인,收集金币总数
+ui.stat7.desc,...,...,...,...,...,...,...,...,
+ui.stat8.desc,Transitions to credits,Übergänge zu Credits,Переходов в титры,Transitions vers les crédits,Transiciones a créditos,Transizioni ai crediti,クレジットへの移行,크레딧으로 전환,积分过渡
