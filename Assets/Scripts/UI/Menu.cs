@@ -5,8 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
-    public bool GameMenu;
-    public GameObject MenuDialog;
+    public bool GameMenu, MainMenu;
+    public GameObject MenuDialog, MainMenuDialog;
+    public void StartGame()
+    {
+        Time.timeScale = 1f;
+        Physics.gravity = new Vector3(0, -100f, 0);
+    }
 
     void Update()
     {
@@ -20,16 +25,20 @@ public class Menu : MonoBehaviour
             {
                 Pause();
             }
-            else
+            else if (GameMenu)
             {
                 Restart();
+            }
+            else
+            {
+                Exit();
             }
         }
     }
 
     public void Resume()
     {
-        MenuDialog.SetActive(false);
+        
         Time.timeScale = 1f;
         GameMenu = false;
     }
@@ -41,17 +50,18 @@ public class Menu : MonoBehaviour
         GameMenu = true;
     }
 
-    public void LoadMenu()
+    public void Exit()
     {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene("Menu");
+        Time.timeScale = 0f;
+        SceneManager.LoadScene("main");
     }
 
     public void Restart()
     {
-        MenuDialog.SetActive(false);
-        Time.timeScale = 1f;
         SceneManager.LoadScene("main");
+        StartGame();
+        Time.timeScale = 1f;
+        MainMenuDialog.SetActive(false);
     }
 
 }

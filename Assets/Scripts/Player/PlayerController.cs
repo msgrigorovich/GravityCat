@@ -8,9 +8,17 @@ public class PlayerController : MonoBehaviour
     public bool isGrounded = false;
     bool gravity = false;
     //метод при старте игры
+    public bool GameMenu;
     void Start()
     {
-        Physics.gravity = new Vector3(0, -100f, 0);
+        if(GameMenu)
+        {
+            Time.timeScale = 0f;
+        }
+        else
+        {
+            Physics.gravity = new Vector3(0, -100f, 0);
+        }
     }
     //метод когда объект входит из треггер зоны
     private void OnTriggerEnter(Collider other)
